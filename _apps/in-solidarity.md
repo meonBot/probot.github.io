@@ -3,13 +3,13 @@ title: In Solidarity
 description: A GitHub bot to add status checks for inclusive language.
 slug: in-solidarity
 screenshots:
-- https://raw.githubusercontent.com/jpoehnelt/in-solidarity-bot/main/static/screenshot.png
+  - https://raw.githubusercontent.com/jpoehnelt/in-solidarity-bot/main/static/screenshot.png
 authors:
-- jpoehnelt
+  - jpoehnelt
 repository: jpoehnelt/in-solidarity-bot
 host: https://bot.in-solidarity.dev
-stars: 12
-updated: 2020-12-28 05:54:55 UTC
+stars: 20
+updated: 2021-07-19 16:18:18 UTC
 ---
 
 A GitHub bot to add status checks for inclusive language. 

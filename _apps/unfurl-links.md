@@ -3,25 +3,24 @@ title: Unfurl Links
 description: Add context to the links shared in discussions
 slug: unfurl-links
 screenshots:
-- https://user-images.githubusercontent.com/173/32036265-57a501ca-b9e4-11e7-9db3-52374fb7290c.png
+  - https://user-images.githubusercontent.com/173/32036265-57a501ca-b9e4-11e7-9db3-52374fb7290c.png
 authors:
-- bkeepers
+  - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 73
-updated: 2020-11-20 22:48:09 UTC
-installations: 363
+stars: 83
+updated: 2021-03-05 18:30:09 UTC
 organizations:
-- overtrue
-- PowerShell
-- HeroTransitions
-- Eugeny
-- reactiveui
-- apereo
-- probot
-- MacDownApp
-- thibmaek
-- benbalter
+  - overtrue
+  - PowerShell
+  - HeroTransitions
+  - Eugeny
+  - reactiveui
+  - apereo
+  - probot
+  - MacDownApp
+  - thibmaek
+  - benbalter
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.

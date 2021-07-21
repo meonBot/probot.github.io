@@ -3,26 +3,25 @@ title: Reminders
 description: Set reminders on Issues and Pull Requests
 slug: reminders
 screenshots:
-- https://user-images.githubusercontent.com/173/30673997-505a993a-9e77-11e7-8f0f-d5a606816e8e.png
+  - https://user-images.githubusercontent.com/173/30673997-505a993a-9e77-11e7-8f0f-d5a606816e8e.png
 authors:
-- jbjonesjr
-- bkeepers
+  - jbjonesjr
+  - bkeepers
 repository: probot/reminders
-stars: 109
-updated: 2020-11-20 22:44:14 UTC
+stars: 121
+updated: 2021-07-05 00:49:58 UTC
 host: https://probot-reminders.herokuapp.com
-installations: 379
 organizations:
-- i0natan
-- eggjs
-- invertase
-- watson-developer-cloud
-- chaijs
-- apereo
-- probot
-- eclipse
-- arcticicestudio
-- rtfd
+  - i0natan
+  - eggjs
+  - invertase
+  - watson-developer-cloud
+  - chaijs
+  - apereo
+  - probot
+  - eclipse
+  - arcticicestudio
+  - rtfd
 ---
 
 Use the `/remind` slash command to set a reminder on any comment box on GitHub and you'll get a ping about it again when the reminder is due.

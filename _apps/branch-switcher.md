@@ -3,14 +3,14 @@ title: Branch Switcher
 description: Switches the base branch of pull requests to the preferred branch.
 slug: branch-switcher
 screenshots:
-- https://raw.githubusercontent.com/s4heid/branch-switcher/master/assets/preview.png
+  - https://raw.githubusercontent.com/s4heid/branch-switcher/master/assets/preview.png
 authors:
-- dpb587
-- s4heid
+  - dpb587
+  - s4heid
 repository: s4heid/branch-switcher
 host: https://branch-switcher.now.sh
-stars: 10
-updated: 2020-12-10 17:31:09 UTC
+stars: 14
+updated: 2021-07-01 04:02:35 UTC
 ---
 
 # branch-switcher

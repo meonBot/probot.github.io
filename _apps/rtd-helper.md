@@ -3,25 +3,24 @@ title: Read The Docs Helper
 description: Assists reviewing using Read The Docs (RTD)
 slug: rtd-helper
 screenshots:
-- https://raw.githubusercontent.com/KengoTODA/rtd-bot/master/screenshot.png
+  - https://raw.githubusercontent.com/KengoTODA/rtd-bot/master/screenshot.png
 authors:
-- KengoTODA
+  - KengoTODA
 repository: KengoTODA/rtd-bot
 host: https://rtd-bot.herokuapp.com
 stars: 9
-updated: 2020-12-29 21:24:01 UTC
-installations: 14
+updated: 2021-07-17 07:53:27 UTC
 organizations:
-- pytest-dev
-- pypa
-- spotbugs
-- cherrypy
-- geosolutions-it
-- aio-libs
-- sanitizers
-- CivicActions
-- patron-it
-- Jankyboy
+  - pytest-dev
+  - pypa
+  - spotbugs
+  - cherrypy
+  - geosolutions-it
+  - aio-libs
+  - sanitizers
+  - CivicActions
+  - patron-it
+  - Jankyboy
 ---
 
 Get URL of documents when review changes in docs directory.

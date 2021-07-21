@@ -1,28 +1,26 @@
 ---
 title: Issue Check
-description: Checks issues against keywords and task lists to ensure required info
-  is there
+description: Checks issues against keywords and task lists to ensure required info is there
 slug: issue-check
 screenshots:
-- https://user-images.githubusercontent.com/8315038/76657935-f1f68a00-6540-11ea-9f38-57410f71a49a.png
+  - https://user-images.githubusercontent.com/8315038/76657935-f1f68a00-6540-11ea-9f38-57410f71a49a.png
 authors:
-- stevenzeck
+  - stevenzeck
 repository: stevenzeck/issue-check
 host: https://issue-check.glitch.me
 stars: 2
-updated: 2020-12-28 21:12:16 UTC
-installations: 38
+updated: 2021-07-19 17:36:03 UTC
 organizations:
-- Requarks
-- Maatwebsite
-- laraform
-- coolcode
-- CartoonFan
-- njzjz
-- velotoxicsounds
-- frilox042
-- hemanth22
-- magnetica-studio
+  - RevenueCat
+  - coolcode
+  - laraform
+  - CartoonFan
+  - reedhhw
+  - velotoxicsounds
+  - hemanth22
+  - SmallDreams
+  - magnetica-studio
+  - ahmed-al-bermawy
 ---
 
 ## What It Does

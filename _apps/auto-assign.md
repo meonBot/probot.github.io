@@ -3,26 +3,25 @@ title: Auto Assign
 description: Add reviewers/assignees to pull requests when pull requests are opened.
 slug: auto-assign
 screenshots:
-- https://github.com/kentaro-m/auto-assign/raw/master/public/assets/screenshots/screenshot.png
-- https://github.com/kentaro-m/auto-assign/raw/master/public/assets/demo.gif
+  - https://github.com/kentaro-m/auto-assign/raw/master/public/assets/screenshots/screenshot.png
+  - https://github.com/kentaro-m/auto-assign/raw/master/public/assets/demo.gif
 authors:
-- kentaro-m
+  - kentaro-m
 repository: kentaro-m/auto-assign
 host: https://kentaro-m-auto-assign.glitch.me/
-stars: 125
-updated: 2020-12-20 10:30:07 UTC
-installations: 744
+stars: 152
+updated: 2021-06-12 03:42:46 UTC
 organizations:
-- flutter
-- ant-design
-- HeroTransitions
-- Requarks
-- gofiber
-- theme-next
-- pypa
-- status-im
-- instructure
-- aragon
+  - flutter
+  - ant-design
+  - HeroTransitions
+  - Requarks
+  - gofiber
+  - theme-next
+  - pypa
+  - status-im
+  - instructure
+  - aragon
 ---
 
 ## What it does

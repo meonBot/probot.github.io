@@ -3,25 +3,24 @@ title: Prettifier
 description: Prettifier keeps your repository content formatted using Prettier.
 slug: prettifier
 screenshots:
-- https://www.prettifier.io/learn/pull-requests/images/screenshot_pull_request.png
+  - https://www.prettifier.io/learn/pull-requests/images/screenshot_pull_request.png
 authors:
-- kevgo
+  - kevgo
 repository: kevgo/prettifier
 host: https://prettifier-prod.herokuapp.com
-stars: 19
-updated: 2020-12-14 17:50:48 UTC
-installations: 43
+stars: 23
+updated: 2021-06-12 10:51:48 UTC
 organizations:
-- git-town
-- LukeLin
-- Bluscream
-- DeMoorJasper
-- kevgo
-- Thomashighbaugh
-- code-for-chapel-hill
-- jellz
-- Warzone
-- sarrionandia
+  - git-town
+  - LukeLin
+  - Bluscream
+  - DeMoorJasper
+  - kevgo
+  - Thomashighbaugh
+  - code-for-chapel-hill
+  - jellz
+  - Warzone
+  - sarrionandia
 ---
 
 Prettifier keeps your repository content formatted using [Prettier](https://prettier.io).

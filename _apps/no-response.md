@@ -1,28 +1,27 @@
 ---
 title: No Response
-description: Closes Issues where the author hasn't responded to a request for more
-  information.
+description: Closes Issues where the author hasn't responded to a request for
+  more information.
 slug: no-response
 screenshots:
-- https://raw.githubusercontent.com/probot/no-response/master/docs/no-response-test.png
+  - https://raw.githubusercontent.com/probot/no-response/master/docs/no-response-test.png
 authors:
-- lee-dohm
+  - lee-dohm
 repository: probot/no-response
 host: https://probot-no-response.herokuapp.com
-stars: 102
-updated: 2020-11-20 22:42:11 UTC
-installations: 443
+stars: 108
+updated: 2021-07-13 16:35:48 UTC
 organizations:
-- flutter
-- facebook
-- Homebrew
-- atom
-- prettier
-- webtorrent
-- ethereum
-- overtrue
-- realm
-- standard
+  - flutter
+  - facebook
+  - Homebrew
+  - atom
+  - prettier
+  - webtorrent
+  - ethereum
+  - overtrue
+  - realm
+  - standard
 ---
 
 Automatically closes Issues where the author hasn't responded to a request for more information.

@@ -1,28 +1,27 @@
 ---
 title: Request Info
-description: Requests more info on issues and pull requests with the default title
-  or an empty body.
+description: Requests more info on issues and pull requests with the default
+  title or an empty body.
 slug: request-info
 screenshots:
-- https://user-images.githubusercontent.com/13410355/28132821-d37bf2a8-66f2-11e7-9e7b-5930ba65d67a.png
-stars: 83
+  - https://user-images.githubusercontent.com/13410355/28132821-d37bf2a8-66f2-11e7-9e7b-5930ba65d67a.png
+stars: 95
 authors:
-- hiimbex
+  - hiimbex
 repository: behaviorbot/request-info
-updated: 2020-10-10 05:47:27 UTC
+updated: 2021-06-25 08:32:12 UTC
 host: https://probot-request-info.herokuapp.com
-installations: 1123
 organizations:
-- Homebrew
-- ant-design
-- thedaviddias
-- webtorrent
-- overtrue
-- apache
-- standard
-- nlohmann
-- invertase
-- HeroTransitions
+  - Homebrew
+  - ant-design
+  - thedaviddias
+  - webtorrent
+  - overtrue
+  - apache
+  - standard
+  - nlohmann
+  - invertase
+  - HeroTransitions
 ---
 
 
